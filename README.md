@@ -1,2 +1,0 @@
-# khanacademypractice
-Khan Academy instructions
